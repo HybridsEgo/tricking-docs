@@ -1,3 +1,3 @@
 <!-- docs/_sidebar.md -->
 * [Home](/)
-* [Checkpoints & Reverts](checkpoint.md "Introduces checkpoint & revert tech")
+* [Checkpoints & Reverts](.docs/checkpoint.md "Introduces checkpoint & revert tech")
