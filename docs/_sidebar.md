@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 * [Home](/)
-* [Checkpoints & Reverts](docs/checkpoint.md "Introduces checkpoint & revert tech")
+* [Checkpoints & Reverts](checkpoint.md "Introduces checkpoint & revert tech")
 * [ye](/) "Placeholder yo"
 * [ye](/) "Placeholder yo"
 * [ye](/) "Placeholder yo"
