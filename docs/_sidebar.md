@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 - Home
-    - [Introduction](intro.md "Introduction")
+    - [Introduction](README.md "Introduction")
 - Checkpoints & Reverts
     - [Checkpoints & Reverts](checkpoint.md "Checkpoints & Reverts")
 - Loadzones 
