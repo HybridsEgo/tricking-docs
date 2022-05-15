@@ -2,9 +2,9 @@
 
 ![logo](_media/logo.png)
 
-# docsify <small>3.5</small>
+# tricking docs
 
-> The Halo tricking bible
+</small>> the Halo tricking bible</small>
 
 [Termacious Trickocity](https://www.youtube.com/user/TermaciousTrickocity)
 [Introduction](#Introduction)
