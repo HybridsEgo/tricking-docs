@@ -9,7 +9,7 @@
     - [Jeffrey](checkpoints/jeffrey.md "Jeffrey")
     - [Revert Grabbing](checkpoints/revert-grabbing.md "Revert Grabbing")
 - Clipping
-    
+    - [Clipping](clipping.md "Clipping")
 - Loadzones 
     - [Loadzones](loadzone.md "Loadzones")
 - Launching
@@ -20,14 +20,13 @@
 _‎‎‎‎‎‎‎_
 
 - Campaign Atlas
-    - Winter Contingency
-    - Oni Sword Base
-    - Nightfall
-    - Tip of the Spear
-    - Long Night of Solace
-    - Exodus
-    - New Alexandria
-    - The Package
-    - Pillar of Autumn
-    - Lone Wolf
-
+    - [Winter Contingency](atlas/Winter-Contingency.md "Winter Contingency")
+    - [Oni Sword Base](atlas/Oni-Sword-Base.md "Oni Sword Base")
+    - [Nightfall](atlas/Nightfall.md "Nightfall")
+    - [Tip of the Spear](atlas/Tip-of-the-Spear.md "Tip of the Spear")
+    - [Long Night of Solace](atlas/Long-Night-of-Solace.md "Long Night of Solace")
+    - [Exodus](atlas/Exodus.md "Exodus")
+    - [New Alexandria](atlas/New-Alexandria.md "New Alexandria")
+    - [The Package](atlas/The-Package.md "The Package")
+    - [Pillar of Autumn](atlas/Pillar-of-Autumn.md "Pillar of Autumn")
+    - [Lone Wolf](atlas/Lone-Wolf.md "Lone Wolf")
