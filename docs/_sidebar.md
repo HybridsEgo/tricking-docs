@@ -2,12 +2,12 @@
 - Home
     - [Introduction](README.md "Introduction")
 - Checkpoints & Reverts
-    - [Checkpoint Safety](checkpoint-safety.md "Checkpoint Safety")
-    - [Delaying Checkpoints](delaying-checkpoints.md "Delaying Checkpoints")
-    - [Double reverting](double-reverting.md "Double reverting")
-    - [Health Regeneration](health-regen.md "Health Regeneration")
-    - [Jeffrey](jeffrey.md "Jeffrey")
-    - [Revert Grabbing](revert-grabbing.md "Revert Grabbing")
+    - [Checkpoint Safety](checkpoints/checkpoint-safety.md "Checkpoint Safety")
+    - [Delaying Checkpoints](checkpoints/delaying-checkpoints.md "Delaying Checkpoints")
+    - [Double reverting](checkpoints/double-reverting.md "Double reverting")
+    - [Health Regeneration](checkpoints/health-regen.md "Health Regeneration")
+    - [Jeffrey](checkpoints/jeffrey.md "Jeffrey")
+    - [Revert Grabbing](checkpoints/revert-grabbing.md "Revert Grabbing")
 - Clipping
     
 - Loadzones 
