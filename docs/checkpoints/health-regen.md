@@ -21,7 +21,7 @@ Both missions use different implementations of `f_global_health_saves`.
 The game checks to see if the health of `player0` drops below 100% `object_get_health player0 < [1.0]`. Once `player0`'s health reaches ~66% they can no longer regenerate health without assistance. 
 
 If the player restores their health back to 100% within 7 seconds of the initial regeneration `(= (object_get_health player0) 1.0)`, the game will grant a checkpoint if the player is not considered to be in 'danger'.
-```cs
+```css
 (script dormant void f_global_health_saves
     (sleep_until (> (player_count) 0))
     (sleep_until 
