@@ -9,13 +9,13 @@
     - [Jeffrey](checkpoints/jeffrey.md "Jeffrey")
     - [Revert Grabbing](checkpoints/revert-grabbing.md "Revert Grabbing")
 - Clipping
-    - [Clipping](clipping.md "Clipping")
+    - [Clipping](clipping/clipping.md "Clipping")
 - Loadzones 
-    - [Loadzones](loadzone.md "Loadzones")
+    - [Loadzones](loadzones/loadzone.md "Loadzones")
 - Launching
-    - [Launching](launching.md "Loadzones")
+    - [Launching](launching/launching.md "Loadzones")
 - Softlocks
-    - [Softlocks](softlock.md "Softlocks")
+    - [Softlocks](softlocks/softlock.md "Softlocks")
 
 _‎‎‎‎‎‎‎_
 
