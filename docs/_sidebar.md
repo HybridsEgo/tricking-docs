@@ -9,7 +9,13 @@
     - [Jeffrey](checkpoints/jeffrey.md "Jeffrey")
     - [Revert Grabbing](checkpoints/revert-grabbing.md "Revert Grabbing")
 - Clipping
-    - [Clipping](clipping/clipping.md "Clipping")
+    - [Clipping Basics](clipping/clipping.md "Clipping")
+    - [Ground Pounding](clipping/groundpound.md "Groundpounding")
+    - [Laserbox](clipping/laserbox.md "Laserbox")
+    - [Pressure Pushing](clipping/pressure-pushing.md "Pressure Pushing")
+    - [Spawn Bumping](clipping/spawn-bumping.md "Spawn Bumping")
+    - [Vehicle Cliping](clipping/vehicle-clip.md "Vehicle Clipping")
+    - [Vehicle Dropping](clipping/vehicle-drop.md "Vehicle Dropping")
 - Loadzones 
     - [Loadzones](loadzones/loadzone.md "Loadzones")
 - Launching
