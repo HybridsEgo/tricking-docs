@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
-- Home
-    - [Introduction](README.md "Introduction")
+- [Introduction](README.md "Introduction")
+
 - Checkpoints & Reverts
     - [Checkpoint Safety](checkpoints/checkpoint-safety.md "Checkpoint Safety")
     - [Delaying Checkpoints](checkpoints/delaying-checkpoints.md "Delaying Checkpoints")
