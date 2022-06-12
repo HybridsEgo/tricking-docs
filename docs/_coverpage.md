@@ -2,9 +2,9 @@
 
 ![logo](_media/logo.png)
 
-# Tricking Bible
+# Halo Tricking Bible
 
-</small>bruh</small>
+</small>Tricking mechanics writen clearly and concisely, all in the same convenient place.</small>
 
 [Termacious Trickocity](https://www.youtube.com/user/TermaciousTrickocity)
 [Introduction](#Introduction)
