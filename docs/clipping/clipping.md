@@ -1,0 +1,7 @@
+# Clipping Basics
+
+Clipping is a term used for a player or object passing or phasing through a wall, and is present in every FPS Halo game.  Clipping is also present in the use of exploration, AI collections, vehicle collections, speedrunning, and Hidden League Gaming.  There are multiple methods of clipping along with inaccessible rooms ranging from simple to complicated difficulties that can be found through all game modes on any version of Halo Reach.  This glitch works because players can create an animation, or spawn into an area that was not intended for the player.  The game counters this by placing the player in a safe area to prevent them from going into solid space, an area of instant death to prevent the player from accidently soft locking; However, majority of the places inside and outside the map are safe from solid space.
+
+Another definition of clipping is where a player or object goes through another player or object because of the lack of collision detected.  An example is the ammo box inside the wall at the end of Pillar of Autumn.  For the sake of the topic discussion we will be following the first definition.
+
+> *Some methods of clipping varies through different versions of Halo Reach due to tick rate (vehicle clipping and launching) and slight change in game mechanics (armor lock clipping).*
