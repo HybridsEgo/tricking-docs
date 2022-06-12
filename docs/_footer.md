@@ -1,0 +1,1 @@
+Maintained by [Termacious Trickocity](https://www.youtube.com/user/TermaciousTrickocity). Proudly published with [docsify](https://docsify.js.io)
