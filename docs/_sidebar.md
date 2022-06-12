@@ -9,7 +9,7 @@
     - [Jeffrey](checkpoints/jeffrey.md "Jeffrey")
     - [Revert Grabbing](checkpoints/revert-grabbing.md "Revert Grabbing")
 - Clipping
-    - [Clipping Basics](clipping/clipping.md "Clipping")
+    - [Clipping Basics](clipping/clipping-basics.md "Clipping")
     - [Ground Pounding](clipping/groundpound.md "Groundpounding")
     - [Laserbox](clipping/laserbox.md "Laserbox")
     - [Pressure Pushing](clipping/pressure-pushing.md "Pressure Pushing")
@@ -19,7 +19,11 @@
 - Loadzones 
     - [Loadzones](loadzones/loadzone.md "Loadzones")
 - Launching
-    - [Launching](launching/launching.md "Loadzones")
+    - [Launching Basics](launching/launching.md "Launching")
+    - [Armorlock](launching/armorlock-launching.md "Armorlock")
+    - [Grenade Piles](launching/grenade-piles.md "Grenade Piles")
+    - [Object Lauching](launching/object-launching.md "Object Launching")
+    - [Vehicle Launching](launching/vehicle-launching.md "Vehicle Launching")
 - Softlocks
     - [Softlocks](softlocks/softlock.md "Softlocks")
 

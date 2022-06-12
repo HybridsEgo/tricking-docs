@@ -39,4 +39,4 @@ If the player restores their health back to 100% within 7 seconds of the initial
     )
 )
 ```
-*From looking at the script above, it is clear that the developers intended for a checkpoint to drop after picking up a Health Pack, but the `f_global_health_saves` script does not actually check how the player gains the health back. `Player0` can use various methods for health regeneration such as, sitting in a dropshield, hitting loadzones that alter health, quickly dying then staying safe after a respawn, and of course using the intended health pack.*
+> *From looking at the script above, it is clear that the developers intended for a checkpoint to drop after picking up a Health Pack, but the `f_global_health_saves` script does not actually check how the player gains the health back. `Player0` can use various methods for health regeneration such as, sitting in a dropshield, hitting loadzones that alter health, quickly dying then staying safe after a respawn, and of course using the intended health pack.*
