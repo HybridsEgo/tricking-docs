@@ -4,7 +4,7 @@
 
 # Halo Tricking Bible
 
-</small>Tricking mechanics writen clearly and concisely all in the same convenient place.</small>
+</small>Tricking mechanics written clearly and concisely all in the same convenient place.</small>
 
 [Termacious Trickocity](https://www.youtube.com/user/TermaciousTrickocity)
 [Introduction](#Introduction)
